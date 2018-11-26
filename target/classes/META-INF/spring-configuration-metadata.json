@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "coya.constants",
+      "type": "coya.config.BasePremiumMapper",
+      "sourceType": "coya.config.BasePremiumMapper"
+    }
+  ],
+  "properties": [
+    {
+      "name": "coya.constants.base-premium",
+      "type": "java.util.HashMap<java.lang.String,java.lang.Double>",
+      "sourceType": "coya.config.BasePremiumMapper"
+    }
+  ],
+  "hints": []
+}

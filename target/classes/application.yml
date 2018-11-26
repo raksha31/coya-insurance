@@ -1,0 +1,6 @@
+coya.constants:
+  BasePremium:
+    "House": 0.03
+    "Banana": 1.15
+    "Bicycle": 0.10
+    "Helicopter": 0.05
